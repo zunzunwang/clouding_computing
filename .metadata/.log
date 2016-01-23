@@ -1,0 +1,101 @@
+!SESSION 2016-01-22 16:09:40.124 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/zunzunwang/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/zunzunwang/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-01-22 16:09:58.349
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2016-01-22 16:19:04.262
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2016-01-22 16:19:04.262
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-01-22 16:19:04.263
+!MESSAGE Software being installed: AWS SDK for Android 1.0.0.v201508062254 (com.amazonaws.eclipse.android.sdk.feature.feature.group 1.0.0.v201508062254)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-01-22 16:19:04.263
+!MESSAGE Missing requirement: AWS SDK for Android 1.0.0.v201508062254 (com.amazonaws.eclipse.android.sdk.feature.feature.group 1.0.0.v201508062254) requires 'com.android.ide.eclipse.adt 18.0.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2016-01-22 16:19:04.269
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2016-01-22 16:19:04.269
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-01-22 16:19:04.269
+!MESSAGE Software being installed: AWS SDK for Android 1.0.0.v201508062254 (com.amazonaws.eclipse.android.sdk.feature.feature.group 1.0.0.v201508062254)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-01-22 16:19:04.269
+!MESSAGE Missing requirement: AWS SDK for Android 1.0.0.v201508062254 (com.amazonaws.eclipse.android.sdk.feature.feature.group 1.0.0.v201508062254) requires 'com.android.ide.eclipse.adt 18.0.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2016-01-22 16:19:04.290
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2016-01-22 16:19:04.290
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-01-22 16:19:04.290
+!MESSAGE Software being installed: AWS SDK for Android 1.0.0.v201508062254 (com.amazonaws.eclipse.android.sdk.feature.feature.group 1.0.0.v201508062254)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-01-22 16:19:04.290
+!MESSAGE Missing requirement: AWS SDK for Android 1.0.0.v201508062254 (com.amazonaws.eclipse.android.sdk.feature.feature.group 1.0.0.v201508062254) requires 'com.android.ide.eclipse.adt 18.0.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2016-01-22 16:19:04.290
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2016-01-22 16:19:04.290
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-01-22 16:19:04.290
+!MESSAGE Software being installed: AWS SDK for Android 1.0.0.v201508062254 (com.amazonaws.eclipse.android.sdk.feature.feature.group 1.0.0.v201508062254)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-01-22 16:19:04.290
+!MESSAGE Missing requirement: AWS SDK for Android 1.0.0.v201508062254 (com.amazonaws.eclipse.android.sdk.feature.feature.group 1.0.0.v201508062254) requires 'com.android.ide.eclipse.adt 18.0.0' but it could not be found
+!SESSION 2016-01-22 16:24:20.829 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/zunzunwang/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/zunzunwang/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-01-22 16:24:34.955
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-01-22 16:24:39.031
+!MESSAGE Starting the AWS toolkit core plugin...
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-01-22 16:24:42.874
+!MESSAGE Failed to load credential profiles from (/Users/zunzunwang/.aws/credentials).AWS credential profiles file not found in the given path: /Users/zunzunwang/.aws/credentials
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-01-22 16:24:42.919
+!MESSAGE Monitoring content of /Users/zunzunwang/.aws/credentials
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-01-22 16:24:43.009
+!MESSAGE AWS toolkit core plugin initialized after 3979 milliseconds.
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-01-22 16:24:43.025
+!MESSAGE Failed to load credential profiles from (/Users/zunzunwang/.aws/credentials).AWS credential profiles file not found in the given path: /Users/zunzunwang/.aws/credentials
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-01-22 16:24:43.027
+!MESSAGE No account is configued in the toolkit. Bootstrapping the credentials file at (/Users/zunzunwang/.aws/credentials).
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-01-22 16:24:43.029
+!MESSAGE Failed to load credential profiles from (/Users/zunzunwang/.aws/credentials).Unable to open the destination file.
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-01-22 16:24:43.030
+!MESSAGE No account could be found. Switching to a temporary account.
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-01-22 16:24:43.799
+!MESSAGE Initialized a new Cognito identity us-east-1:8680e2b9-329a-4258-867f-75ebcc5da664
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-01-22 16:25:34.023
+!MESSAGE Switching to global default account
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-01-22 16:25:34.025
+!MESSAGE No profile found: default
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-01-22 16:25:34.395
+!MESSAGE The current accountId is not found in the system. Switching to the default account.
+
+!ENTRY com.amazonaws.eclipse.sdk.ui 1 0 2016-01-22 16:26:35.485
+!MESSAGE Downloading the SDK from CloudFront to location /var/folders/1q/95mq3ck931qdvgjwhwjjtc_40000gn/T/aws-java-sdk1667370370408436740/sdk.zip
+
+!ENTRY com.amazonaws.eclipse.sdk.ui 1 0 2016-01-22 16:32:06.182
+!MESSAGE SDK download completes. Location: /var/folders/1q/95mq3ck931qdvgjwhwjjtc_40000gn/T/aws-java-sdk1667370370408436740/sdk.zip, File-length: 154562010
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2016-01-22 16:48:01.800
+!MESSAGE Switching to global default account
