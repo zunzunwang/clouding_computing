@@ -1,0 +1,11 @@
+package com.zunzunwang.td2;
+
+public class App_main {
+	int[] string_list ={1,2,3};
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

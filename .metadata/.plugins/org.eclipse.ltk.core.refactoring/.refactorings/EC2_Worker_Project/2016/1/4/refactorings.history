@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;App_main&apos; to &apos;App_EC2_main&apos;&#x0A;- Original project: &apos;EC2_Worker_Project&apos;&#x0A;- Original element: &apos;App_main&apos;&#x0A;- Renamed element: &apos;App_EC2_main&apos;&#x0A;- Update references to refactored element&#x0A;- Rename similarly named elements&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;App_main&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{App_main.java[App_main" matchStrategy="1" name="App_EC2_main" qualified="false" references="true" similarDeclarations="true" stamp="1454080048546" textual="false" version="1.0"/>
+</session>
